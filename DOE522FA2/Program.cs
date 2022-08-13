@@ -23,10 +23,11 @@ class BMI : Base
 {
     private float bmi;
     private string msg;
-    public BMI(float H, float W) : base(H, W) {}
+    public BMI(float H, float W) : base(H, W) {
+        bmi = getWeight() / (getHeight() * getHeight());
+    }
     public string displayBMI()
     {
-        bmi = getWeight() / (getHeight() * getHeight());
         msg = "Your BMI is: " + bmi;
         if(bmi > 25)
         {
