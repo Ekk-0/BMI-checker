@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/eavosloo/Programming/CTU SEM 2/DOE522/FA2/DOE522FA2/DOE522FA2/DOE522FA2.csproj",
+      "projectUniqueName": "/Users/eavosloo/Programming/CTU SEM 2/DOE522/FA2/DOE522FA2/BMI-checker/DOE522FA2/DOE522FA2.csproj",
       "projectName": "DOE522FA2",
-      "projectPath": "/Users/eavosloo/Programming/CTU SEM 2/DOE522/FA2/DOE522FA2/DOE522FA2/DOE522FA2.csproj",
+      "projectPath": "/Users/eavosloo/Programming/CTU SEM 2/DOE522/FA2/DOE522FA2/BMI-checker/DOE522FA2/DOE522FA2.csproj",
       "packagesPath": "/Users/eavosloo/.nuget/packages/",
-      "outputPath": "/Users/eavosloo/Programming/CTU SEM 2/DOE522/FA2/DOE522FA2/DOE522FA2/obj/",
+      "outputPath": "/Users/eavosloo/Programming/CTU SEM 2/DOE522/FA2/DOE522FA2/BMI-checker/DOE522FA2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/eavosloo/.nuget/NuGet/NuGet.Config"
